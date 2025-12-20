@@ -1,4 +1,4 @@
-# TryHackMe – Cybersecurity Learning Journey
+# TryHackMe – CTF notes
 
 This repository documents my **hands-on learning, notes, and write-ups** while practicing cybersecurity on **TryHackMe**.  
 The goal of this repo is to **track progress, reinforce concepts, and build a strong practical foundation** in offensive and defensive security.
