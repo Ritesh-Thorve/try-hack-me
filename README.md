@@ -10,7 +10,7 @@ The goal of this repo is to **track progress, reinforce concepts, and build a st
 
 ---
 
-## 📌 About TryHackMe
+##  About TryHackMe
 TryHackMe is a hands-on cybersecurity learning platform that provides guided labs and real-world simulations covering:
 - Penetration Testing
 - Web Security
@@ -20,9 +20,9 @@ TryHackMe is a hands-on cybersecurity learning platform that provides guided lab
 
 ---
 
-## 🧠 What This Repository Contains
-- 📓 Structured notes from completed rooms  
-- 🧪 High-level walkthroughs (sanitized)  
-- 🛠 Tools & techniques used during labs  
-- 🚩 Key takeaways and lessons learned  
-- 📁 Organized folder structure for each room  
+##  What This Repository Contains
+-  Structured notes from completed rooms  
+-  High-level walkthroughs (sanitized)  
+-  Tools & techniques used during labs  
+-  Key takeaways and lessons learned  
+-  Organized folder structure for each room  
